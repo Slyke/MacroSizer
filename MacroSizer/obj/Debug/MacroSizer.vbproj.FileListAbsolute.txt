@@ -1,0 +1,17 @@
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\bin\Debug\MacroSizer.exe.config
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\bin\Debug\MacroSizer.exe
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\bin\Debug\MacroSizer.pdb
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\bin\Debug\MacroSizer.xml
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.frmMain.resources
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.Resources.resources
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.vbproj.GenerateResource.Cache
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.exe
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.xml
+c:\users\slyke\documents\visual studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.pdb
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.frmPreview.resources
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.vbprojResolveAssemblyReference.cache
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Debug\MacroSizer.exe.manifest
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Debug\MacroSizer.application
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.TrustInfo.xml
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.exe.manifest
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Debug\MacroSizer.application

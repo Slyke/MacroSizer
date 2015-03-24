@@ -1,0 +1,32 @@
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Release\MacroSizer.exe.config
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Release\MacroSizer.exe
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Release\MacroSizer.pdb
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Release\MacroSizer.xml
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.frmMain.resources
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.frmPreview.resources
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.Resources.resources
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.vbproj.GenerateResource.Cache
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.exe
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.xml
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.pdb
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Release\MacroSizer.exe.manifest
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\bin\Release\MacroSizer.application
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.TrustInfo.xml
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.exe.manifest
+C:\Users\Slyke\Documents\Visual Studio 2013\Projects\MacroSizer\MacroSizer\obj\Release\MacroSizer.application
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\bin\Release\MacroSizer.exe.config
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.exe
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.xml
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.pdb
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\bin\Release\MacroSizer.exe.manifest
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\bin\Release\MacroSizer.application
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\bin\Release\MacroSizer.exe
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\bin\Release\MacroSizer.pdb
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\bin\Release\MacroSizer.xml
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.frmMain.resources
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.frmPreview.resources
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.Resources.resources
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.vbproj.GenerateResource.Cache
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.TrustInfo.xml
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.exe.manifest
+C:\Users\Slyke\Desktop\ann\MacroSizer\MacroSizer\obj\Release\MacroSizer.application
