@@ -41,9 +41,6 @@
 
         saveSettingsFile(getSettingsFile(), generateSettingsStringArray())
 
-        nioSystemTray.Visible = True
-        Me.Visible = False
-
     End Sub
 
     Private Sub saveSettings()
@@ -184,5 +181,12 @@
 
     Private Sub btnSetManualDimension_Click(sender As Object, e As EventArgs) Handles btnSetManualDimension.Click
         MsgBox("Not yet working.")
+    End Sub
+
+    Private Sub cmdHide_Click(sender As Object, e As EventArgs) Handles cmdHide.Click
+
+        nioSystemTray.Visible = True
+        Me.Visible = False
+
     End Sub
 End Class
