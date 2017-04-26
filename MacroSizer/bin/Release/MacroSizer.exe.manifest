@@ -43,18 +43,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MacroSizer.exe" size="75264">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MacroSizer.exe" size="72192">
       <assemblyIdentity name="MacroSizer" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>QRX+MxhG6iDQPFE4vaIpP1JLcRHJf1KWfqNbtdGwdFk=</dsig:DigestValue>
+        <dsig:DigestValue>yFfxgZyeAv73Zpq1vKz65VGWXKhGGIAxKFWrGIk5sNY=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="MacroSizer.exe.config" size="186" />
+  <file name="MacroSizer.exe.config" size="181" />
   <file name="magico.ico" size="5430">
     <hash>
       <dsig:Transforms>
